@@ -11,7 +11,7 @@ const OAuth = () => (
       <View className="flex-1 bg-general-100 h-1"></View>
     </View>
 
-    <CustomButton title="Sign in with Goolge" className="mt-6" />
+    <CustomButton title="Sign in with Google" className="mt-6" />
   </View>
 );
 
